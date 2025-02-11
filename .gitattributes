@@ -1,0 +1,5 @@
+*.SchDoc linguist-vendored
+*.PcbDoc linguist-vendored
+*.PrjPcb linguist-vendored
+*.OutJob linguist-vendored
+*.DsnWrk linguist-vendored

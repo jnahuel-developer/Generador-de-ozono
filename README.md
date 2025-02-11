@@ -2,11 +2,12 @@
 
 Este proyecto consiste en el diseño de una placa electrónica para un **Generador de Ozono**, un dispositivo capaz de producir ozono mediante descarga de corona, utilizado en aplicaciones de desinfección y purificación de aire.  
 
-
 ![Vista 3D del PCB](https://github.com/jnahuel-developer/Generador-de-ozono/blob/main/Hardware/Generador%20de%20ozono/Images/Generador%20de%20ozono%20-%203D.jpg)  
 
 
 ---
+---
+
 
 ## 🏗️ Diseño del Hardware  
 
@@ -18,6 +19,7 @@ El diseño de la placa incluye:
 
 
 ---
+---
 
 
 ## 📂 Estructura del Repositorio  
@@ -27,6 +29,7 @@ El diseño de la placa incluye:
 ├── 📜 **README.md** → Documentación principal  
 
 
+---
 ---
 
 
@@ -42,6 +45,7 @@ Vista posterior del PCB:
 
 
 ---
+---
 
 
 ## 🛠️ Herramientas Utilizadas  
@@ -49,6 +53,8 @@ Vista posterior del PCB:
 - **Diseño PCB** → Altium Designer  
 - **Modelado 3D** → Altium Designer  
 
+
+---
 ---
 
 
